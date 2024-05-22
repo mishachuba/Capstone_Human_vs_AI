@@ -27,8 +27,8 @@ Building on the successful implementation and evaluation of machine learning mod
 
 #### Outline of project
 
-- [Link to Part 1 - Modeling]()
-- [Link to Part 2 - Best Model Interpretation]()
+- [Link to Part 1 - Modeling](https://github.com/mishachuba/Capstone_Human_vs_AI/blob/main/Capstone_AI_vs_Human_Modeling_final.ipynb)
+- [Link to Part 2 - Best Model Interpretation](https://github.com/mishachuba/Capstone_Human_vs_AI/blob/main/Capsonte_AI_vs_Human_Best_Model_Interpretation_final.ipynb)
 
 
 ##### Contact and Further Information
