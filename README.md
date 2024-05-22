@@ -34,4 +34,5 @@ Building on the successful implementation and evaluation of machine learning mod
 ##### Contact and Further Information
 
 Mykhaylo Chuba
+
 mishachuba@yahoo.com
